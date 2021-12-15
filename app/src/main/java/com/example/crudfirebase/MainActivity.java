@@ -18,6 +18,9 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
+
+    /// SAYA MENULIS KOMENTAR DI MAIN ACTIVITY
+
     ArrayList<MhsModel> mhsList ;
     MhsModel mm ;
 //    DbHelper db ;

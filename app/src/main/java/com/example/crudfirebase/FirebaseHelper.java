@@ -15,6 +15,8 @@ import java.util.Map;
 
 public class FirebaseHelper {
 
+    // INI KOMENTAR DI FIREBASE
+
     FirebaseDatabase db ;
     DatabaseReference dbref ;
 
